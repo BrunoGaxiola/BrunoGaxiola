@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Gaxiola Gonzalez</h1>
-<h3 align="center">A Computer Science and Engineering Student at Tecnológico de Monterrey.</h3>
+<h3 align="center">A Computer Science and Technology Student at Tecnológico de Monterrey.</h3>
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
